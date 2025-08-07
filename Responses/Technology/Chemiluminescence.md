@@ -1,0 +1,12 @@
+Chemiluminescence is the emission of light as a result of a chemical reaction. Unlike fluorescence or phosphorescence, where light is absorbed and then re-emitted, in chemiluminescence, the energy released from an exothermic chemical reaction directly produces an electronically excited state in a molecule. When this excited molecule returns to its ground state, it emits a photon of light. This light is often referred to as "cold light" because it doesn't involve significant heat production.
+
+A familiar example of chemiluminescence is a **glow stick**. When you snap a glow stick, you break a small inner vial, allowing two chemicals (typically an oxalate ester and hydrogen peroxide) to mix. This reaction produces an intermediate that then transfers its energy to a fluorescent dye, causing the dye to emit light. The color of the light depends on the specific dye used.
+
+When chemiluminescence occurs in living organisms, it's called **bioluminescence**. Fireflies, certain jellyfish, and some deep-sea creatures are well-known examples of bioluminescent organisms. In these cases, specific enzymes (like luciferase in fireflies) catalyze reactions that produce light, often for communication, attracting mates or prey, or defense.
+
+Chemiluminescence has a variety of applications, including:
+
+* **Forensics:** Luminol, a chemiluminescent chemical, is used by forensic scientists to detect trace amounts of blood at crime scenes. Even if blood has been cleaned, the iron in hemoglobin acts as a catalyst for the luminol reaction, causing a blue glow.
+* **Analytical Chemistry:** Because it's a highly sensitive method that doesn't require an external light source, chemiluminescence is used to detect and quantify very small amounts of various substances, including biological molecules (like proteins, DNA, and enzymes), reactive oxygen species, and even pollutants in the air.
+* **Medical Diagnostics:** Chemiluminescent immunoassays (like ELISA) are widely used in clinical laboratories to detect specific antibodies or antigens in body fluids, aiding in the diagnosis of various conditions, including infections and certain cancers.
+* **Research:** In scientific research, chemiluminescence is used for things like Western blotting (to detect specific proteins), cell imaging, and studying chemical reaction kinetics.

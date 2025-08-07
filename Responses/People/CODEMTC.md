@@ -1,0 +1,3 @@
+CODEMTC is known on TikTok for his incredibly fast hand tricks, often involving lighters and other small objects. He frequently uses tags and references to anime, suggesting a connection to concepts of superhuman speed, similar to what you mentioned about Ken Lee.
+
+Regarding whether it's a trick, there's a lot of debate in the comments of his videos, just like with Ken Lee. Some people are convinced his speed is real, while others suspect some form of video editing or clever slight of hand. He often incorporates elements like timers into his videos to seemingly prove the speed, but the nature of short-form video content makes it difficult for viewers to definitively determine if it's entirely unedited or if there are subtle techniques involved.

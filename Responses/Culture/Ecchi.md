@@ -1,0 +1,3 @@
+Ecchi (エッチ) is a Japanese term derived from the English word "H" (for "hentai"), often used to describe content that is sexually suggestive or perverted, but typically without explicit sexual acts.
+
+In anime and manga, it usually refers to scenes or artwork that are mildly erotic or emphasize sexual fan service, such as revealing clothing, suggestive poses, or comedic situations with sexual undertones, but it generally stops short of full-on hentai (pornographic) content.

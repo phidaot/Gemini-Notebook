@@ -1,0 +1,5 @@
+Franklin Richards is the incredibly powerful son of Reed Richards (Mister Fantastic) and Susan Storm Richards (Invisible Woman) of the Fantastic Four. He is the older brother to Valeria Richards.
+
+He is known for being one of the most powerful beings in the Marvel universe, often classified as an Omega-level mutant. His primary powers involve vast reality manipulation and psionic abilities, which have manifested as telepathy, telekinesis, precognition, and the ability to create pocket universes. He even has the power to reshape realities.
+
+Franklin's powers began to manifest at a very young age due to his parents' radiation-altered genes. Despite his immense power, he often tries to live a somewhat normal life, and his powers have fluctuated throughout his history, sometimes being suppressed by himself or others.

@@ -1,0 +1,12 @@
+Tuckersoft is a prominent video game company within the *Black Mirror* universe, most notably featured in the interactive film **Bandersnatch**. It's a key player in the story of Stefan Butler, a young programmer in 1984 who attempts to adapt a "choose your own adventure" book into a revolutionary video game for Tuckersoft.
+
+Here's what we know about Tuckersoft:
+
+* **Game Development:** Tuckersoft is a game development studio led by Mohan Thakur, with acclaimed game designer Colin Ritman also on staff. They are in the business of creating various video games, many of which contain references to other *Black Mirror* episodes (e.g., *Nohzdyve*, *Metalhead*, *Pig in a Poke*, *Terror on Rannoch B*).
+* **Central to "Bandersnatch":** The core narrative of *Bandersnatch* revolves around Stefan's struggle to complete his game, *Bandersnatch*, under the pressure and influence of Tuckersoft. The choices the viewer makes for Stefan often directly impact the fate of Tuckersoft itself, with some endings showing the company going out of business.
+* **Connections to a Shared Universe (TCKR Systems):** While *Black Mirror* episodes are often standalone, Tuckersoft (and its shortened form, TCKR) is a significant thread that connects various parts of the *Black Mirror* universe.
+    * **TCKR Systems:** This is implied to be a broader entity, with Tuckersoft being a gaming division or a predecessor. TCKR Systems is heavily featured in "San Junipero" as the company running the simulation where consciousnesses can live on. It's also mentioned in "Black Museum" as being involved in the "cookie" technology that allows consciousness to be transferred.
+    * **"Plaything" (Season 7):** The recent *Black Mirror* episode "Plaything" brings back Tuckersoft and characters like Colin Ritman and Mohan Thakur, further solidifying its place in the shared universe. This episode reveals a game called *Thronglets* developed by Tuckersoft, which takes a very dark turn involving sentient digital creatures.
+* **Technological Advancement:** Tuckersoft's games often push the boundaries of technology within their respective timelines, hinting at the future advancements seen in other *Black Mirror* episodes. The interactive nature of *Bandersnatch* itself blurs the lines between player choice and predestination, a common theme in the series.
+
+In essence, Tuckersoft serves as a crucial element in exploring themes of free will, technological control, and the impact of interactive media within the *Black Mirror* narrative.
