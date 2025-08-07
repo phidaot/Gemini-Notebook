@@ -1,0 +1,9 @@
+"Planet Hulk" is a major storyline from Marvel Comics that ran from 2006 to 2007, primarily in the pages of *The Incredible Hulk*. It's a fan-favorite for a lot of reasons, and it's been adapted into an animated movie and elements of it were used in the film *Thor: Ragnarok*.
+
+The basic premise is that a secret group of Marvel heroes, known as the Illuminati, decide that the Hulk is too dangerous to remain on Earth. They trick him into a spaceship and launch him into space, intending to send him to a peaceful planet. However, a wormhole sends him to the planet Sakaar, where he crashes.
+
+On Sakaar, he's captured and forced to become a gladiator. He forms a new "family" with a group of fellow gladiators known as the Warbound, and together they fight their way to freedom and eventually overthrow the tyrannical ruler of the planet, the Red King. The Hulk becomes the new king, finds peace, and even has a child with his queen, Caiera.
+
+The story is a huge departure for the character, showcasing Hulk not just as a rampaging monster, but as a leader and a hero. It explores themes of betrayal, finding a new home, and the idea of what makes a true hero. It also sets up the sequel storyline, "World War Hulk," where the Hulk returns to Earth seeking revenge on the heroes who exiled him.
+
+Given your interest in games like *Vampire Survivors* with its "particle effects and kiting," and your love for stylish action games like *Devil May Cry* and *Bayonetta*, the action-packed gladiator battles in "Planet Hulk" might really appeal to you. It's all about a powerful protagonist fighting against overwhelming odds. The sense of building up a team and fighting for a cause could also resonate with your love for completionist goals and the satisfaction of a good story.
