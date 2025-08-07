@@ -1,0 +1,3 @@
+GIMP, which stands for **GNU Image Manipulation Program**, is a free and open-source raster graphics editor. It's used for a wide range of tasks, including photo retouching, image composition, and image authoring.
+
+It's a powerful tool with many features that you'd find in commercial software, like layers, masks, filters, and brushes. GIMP is available for a variety of operating systems, including Windows, macOS, and Linux. 

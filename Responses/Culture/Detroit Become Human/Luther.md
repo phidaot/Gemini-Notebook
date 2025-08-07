@@ -1,0 +1,3 @@
+Yes, you are thinking of Luther. He is a prominent character in Kara's storyline in *Detroit: Become Human*. He is a large android who initially serves Zlatko, a character who experiments on and wipes the memories of deviant androids.
+
+Kara and Alice encounter Luther at Zlatko's mansion. After they escape, Luther joins them on their journey to Canada, acting as a protector and a father figure to Alice. He is a very loyal and compassionate character, and his presence is crucial for the survival of the group in many parts of the story.

@@ -1,0 +1,3 @@
+By default, Audacity can't open M4A files on a Windows PC. To import M4A files, you'll need to install the optional FFmpeg library. This library expands Audacity's capabilities, allowing it to work with a wider range of audio formats, including M4A and AC3. The process involves downloading and installing the FFmpeg library and then locating it within Audacity's preferences.
+
+On Mac, however, Audacity can import unprotected M4A files without needing the FFmpeg library.
