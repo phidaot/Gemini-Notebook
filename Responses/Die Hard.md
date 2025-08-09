@@ -1,0 +1,3 @@
+**Die Hard** is a classic action movie from 1988 starring Bruce Willis as John McClane, a New York City police detective. The film is set during a Christmas Eve party at the Nakatomi Plaza in Los Angeles, which is taken over by a group of terrorists led by Hans Gruber, played by Alan Rickman.
+
+The story follows McClane as he becomes the sole hope for the hostages inside, including his estranged wife, Holly Gennaro. Using his wits and police training, he must navigate the building's ventilation shafts, outsmart the terrorists, and save the day. The film is known for its intense action sequences, memorable one-liners, and a perfect blend of high-stakes tension and character-driven moments. It's often credited with setting the standard for the modern action genre.

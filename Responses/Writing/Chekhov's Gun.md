@@ -1,0 +1,9 @@
+Chekhov's Gun is a literary and dramatic principle that states every element in a story must be necessary. If a detail, object, or character is introduced, it should have a purpose and be used later in the narrative. The name comes from a quote by the Russian writer Anton Chekhov, who reportedly said:
+
+"If in the first act you have hung a pistol on the wall, then in the following one it should be fired. Otherwise, don't put it there."
+
+This principle is a guide for writers to avoid including superfluous details and to ensure that all parts of the story contribute to the plot. It helps create a sense of cohesion and prevents the audience from feeling like their attention was wasted on irrelevant information.
+
+A good example of this is the time travel machine in *Back to the Future*. The DeLorean is introduced early on and is essential to the entire plot. If it were just a cool car without the time travel functionality, it would violate Chekhov's Gun. Another example that you might appreciate is the subtle setup of the mind-bending reality in *Inception*, where details like the spinning top are introduced early and become a critical plot device for the ending. Similarly, the physics and mechanics that are introduced early in *The Legend of Zelda: Tears of the Kingdom* are used later to overcome "soft locks" or obstacles, which you've mentioned you enjoy.
+
+The opposite of Chekhov's Gun is a "red herring," which is a detail intended to mislead the audience and draw their attention away from the actual plot. A red herring is deliberately useless, while a Chekhov's Gun is deliberately useful.
