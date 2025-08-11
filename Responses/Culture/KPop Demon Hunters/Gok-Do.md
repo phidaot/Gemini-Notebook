@@ -1,0 +1,1 @@
+In the film "KPop Demon Hunters," Mira's weapon is a curved blade on a long pole, which is referred to as a "Gok-Do" or a "Curved Moon Sword." According to the movie's concept art, the weapon is based on a traditional Korean polearm called a "Cheolyeomchu" from the Goguryeo period.
