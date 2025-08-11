@@ -1,0 +1,1 @@
+Rumi, the leader of Huntr/x in the film "KPop Demon Hunters," uses a sword called a "Saingeom" or a "Sword of Four Tigers." This weapon is inspired by a traditional Korean ritual sword believed to possess powerful energy to ward off evil spirits.

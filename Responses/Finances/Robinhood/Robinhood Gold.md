@@ -1,0 +1,1 @@
+Robinhood Gold has two pricing options: a monthly subscription for $5 or an annual subscription for $50. New users can also take advantage of a 30-day free trial. The membership provides benefits like a higher APY on uninvested cash, a 3% match on IRA contributions, and access to advanced market data.

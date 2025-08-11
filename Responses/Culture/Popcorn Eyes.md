@@ -1,0 +1,2 @@
+Based on discussions and reviews of the movie, the "popcorn eyes" gag in KPop Demon Hunter appears to be an original concept created for the film. It's used as a visual metaphor to represent the characters' extreme blushing and excitement, so intense that their eyes (which are first depicted as corn kernels) get "heated up" and pop into popcorn.
+The gag is a key part of the movie's unique animated style and visual language, which uses exaggerated, over-the-top gags to convey character emotions.

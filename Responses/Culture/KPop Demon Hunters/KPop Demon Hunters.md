@@ -1,0 +1,5 @@
+"KPop Demon Hunters" is an American animated musical urban fantasy film that was released on Netflix on June 20, 2025. It's produced by Sony Pictures Animation.
+
+The movie follows a world-renowned K-pop girl group, Huntr/x, who have a secret life as demon hunters. The group, consisting of Rumi, Mira, and Zoey, has to fight a rival K-pop boy band called the Saja Boys, who are secretly demons. The film has received critical acclaim for its animation, music, voice acting, and story.
+
+The film has also inspired a lot of fan activity, including a "Kimbap One-Bite Challenge" on social media, and has led to a lot of discussion about a potential sequel or TV series. While there isn't a dedicated "KPop Demon Hunters" video game yet, there are some fan-made experiences on platforms like Roblox and discussions about potential games.

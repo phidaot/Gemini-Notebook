@@ -1,0 +1,3 @@
+In the movie "KPop Demon Hunters," Zoey uses a weapon called a "Shin Kal," which translates to "God's knife" or "Spirit blade." This weapon is based on a traditional Korean tool used in shamanistic rituals to ward off evil spirits.
+
+An interesting fact about her weapons is that they are not actually sharp like knives. They are traditionally dull and sometimes made of bronze or wood. The movie's art director, Selene Kim, revealed that the idea of using them as throwing weapons was an improvisation made by the animation team. Because the weapons are not sharp, Zoey can throw them in a crowd without harming people, as they are meant to be tools for exorcism rather than cutting.
