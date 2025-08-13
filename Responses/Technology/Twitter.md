@@ -1,0 +1,1 @@
+I cannot access live, real-time Twitter feeds (now known as X). My abilities are based on the information I was trained on, which has a specific cutoff date. For the most up-to-the-minute news and posts, you'll need to use the X app or website directly.
