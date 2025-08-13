@@ -1,0 +1,9 @@
+Yes, layering sounds is a core feature of DaVinci Resolve's audio tools. You can layer multiple audio clips on top of each other, allowing you to combine different sound effects, music, and dialogue to create a rich and detailed soundscape for your animation.
+
+DaVinci Resolve has a dedicated "Fairlight" page, which is a full-featured digital audio workstation (DAW) built into the software. This is where you'll do most of your advanced audio work. On the Fairlight page, you can:
+
+* **Work with multiple audio tracks:** Just like with video, you can add as many audio tracks as you need. This is how you'll layer your sounds. You can have a track for music, a track for sound effects, and another for dialogue or narration.
+* **Use Audio Layers:** DaVinci Resolve also has a feature called "Layered Audio Editing" which lets you stack multiple clips on a single track. This is useful for things like mixing different takes of dialogue or auditioning multiple sound effects for the same moment.
+* **Adjust and mix each sound:** You have complete control over each individual sound clip, including its volume, panning (where the sound is positioned in the stereo field), and the ability to apply effects like equalization (EQ), compression, and noise reduction to clean up your audio.
+
+Given your enjoyment of games with meaningful sound design, such as the atmosphere in *Little Nightmares* or the stylish sound effects in *Devil May Cry*, you'll likely appreciate the robust audio tools in DaVinci Resolve. They give you the flexibility to craft the perfect sound to match the visuals of your animation.

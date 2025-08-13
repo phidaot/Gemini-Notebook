@@ -1,0 +1,7 @@
+The term "808 bass kick" refers to the iconic bass drum sound from the Roland TR-808 Rhythm Composer, a drum machine that was released in 1980.
+
+What makes the 808 sound so distinctive and influential is its powerful, low-frequency sound. Unlike other drum machines of the era that used samples of real drums, the TR-808 created its sounds using analog synthesis. The bass drum, in particular, was built with a sine oscillator, which allowed it to generate incredibly deep, booming sub-frequencies that could be felt as much as heard.
+
+Although the TR-808 was initially a commercial failure, its unique sound, especially the bass kick, found a home in the underground music scenes of the 1980s. Producers in genres like hip-hop, electro, techno, and house embraced its synthetic, otherworldly quality. They began to experiment with the sound, extending the decay of the kick to create long, rumbling basslines and even tuning it to different pitches to form a melodic bassline.
+
+Today, the term "808" is used more broadly to describe any deep, sub-bass kick drum sound, regardless of whether it was created with an original TR-808 or with a modern software emulation or sample pack. It has become the foundational sound for countless tracks, particularly in trap music, where the low-end rumble is a key characteristic.
