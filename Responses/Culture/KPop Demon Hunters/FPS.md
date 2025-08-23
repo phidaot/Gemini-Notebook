@@ -1,0 +1,3 @@
+*KPop Demon Hunters* has a unique and intentionally stylized animation style. The film's overall frame rate is a standard 24 frames per second (fps), but it uses a technique similar to the one seen in the *Spider-Verse* movies where certain characters or scenes are animated at a lower frame rate, like 12 fps. This is a stylistic choice to make some characters seem "incomplete" or to create a particular visual effect, and it can fluctuate throughout the movie.
+
+Your observation about the non-fluid transitions is a keen one; it's a deliberate creative decision by the animators to achieve a certain look and feel, and it's a topic of discussion among viewers and animators.
