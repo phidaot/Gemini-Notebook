@@ -1,0 +1,3 @@
+Based on the information available from the movie *Captain America: Brave New World*, Ruth Bat-Seraph is a former Black Widow, which means she was trained in the Red Room. This places her in a shared history with other characters like Natasha Romanoff and Yelena Belova.
+
+The film reimagines her backstory from the comics to tie her directly into the existing MCU lore of the Black Widows and the Red Room program. This connection means she has a shared past with the other Widows, as they all went through the same brutal training to become spies and assassins. However, the film doesn't explicitly state what her personal relationship is with any of them.

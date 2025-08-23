@@ -1,0 +1,5 @@
+Isaiah Bradley is a Marvel Comics character who has also been featured in the Marvel Cinematic Universe. He is known as one of the superheroes to hold the title of Captain America and is often referred to as the "Black Captain America."
+
+In the comics, Isaiah Bradley's story is an early, and more tragic, version of the Super Soldier program during World War II. He was one of 300 African-American soldiers who were experimented on in a secret attempt to recreate the serum that created Captain America (Steve Rogers). The program was a clandestine and unethical operation, and Isaiah was the sole survivor. He later donned a version of the Captain America costume for a mission, which led to his capture and a long prison sentence.
+
+In the Marvel Cinematic Universe, he was introduced in the series *The Falcon and the Winter Soldier*. His backstory was slightly altered, placing his experiences during the Korean War, but the core of his story—being an early super soldier who was betrayed and imprisoned by the U.S. government—remains the same. He is portrayed by actor Carl Lumbly. He is also set to appear in the film *Captain America: Brave New World*.
