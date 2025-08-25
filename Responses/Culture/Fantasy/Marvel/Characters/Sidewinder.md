@@ -1,0 +1,5 @@
+Sidewinder is a villain in the Marvel Cinematic Universe, specifically in *Captain America: Brave New World*, where he is portrayed by actor Giancarlo Esposito. He is the leader of the Serpent Society, a mercenary group.
+
+In the film, Sidewinder is a professional assassin and a key player in the conflict. He is hired by the main antagonist, The Leader, to carry out a plot involving the theft of vibranium and adamantium. Unlike his comic book counterpart, who has powers like teleportation, this version of the character is more of a grounded, highly skilled mercenary. He is a formidable opponent for Captain America and utilizes his intelligence and combat skills to complete his contracts.
+
+For a fan of actors like Giancarlo Esposito, his role as Sidewinder offers a chance to see him in a different kind of "bad guy" role compared to his cerebral characters in shows like *Breaking Bad*. Here, he's more physically hands-on, leading a team of operatives and engaging in direct combat.

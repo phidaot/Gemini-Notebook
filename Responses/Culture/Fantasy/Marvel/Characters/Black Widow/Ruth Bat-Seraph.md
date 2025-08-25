@@ -1,0 +1,3 @@
+Ruth Bat-Seraph is a character in *Captain America: Brave New World* played by actress Shira Haas. In the film, she is a former Black Widow who now serves as a high-ranking official in the U.S. government, working as a security advisor to President Ross.
+
+Her character has a different background in the film compared to the comics. In the comics, she is a super-powered Israeli agent named Sabra. However, the film version is reimagined as a former Black Widow, which ties her into existing MCU lore.
