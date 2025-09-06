@@ -1,0 +1,9 @@
+*Infinity Nikki* is the fifth game in the *Nikki* franchise, a series of dress-up and adventure games developed by Papergames. The series has evolved significantly over the years, moving from simple 2D dress-up games to a fully-realized 3D open-world experience with *Infinity Nikki*.
+
+The games in the main series are:
+
+* **Nikki UP2U: A Dressing Story (2012):** This was the first game, a simple 2D dress-up game with a very light story. It established the core concept of collecting and styling outfits for Nikki.
+* **Nikki UP2U 2: World Traveller (2013):** This sequel expanded on the original with more features, including crafting. It also introduced a more developed storyline about Nikki traveling the "real world" to find her missing father. The English-language version was released as *Hello Nikki: Let's Beauty Up*.
+* **Love Nikki - Dress Up Queen (2015):** This is the game that really brought the series to a global audience. It's set in the magical world of Miraland and introduced a much deeper storyline with more complex lore and a focus on "Stylist Duels" where players compete by creating outfits that match certain themes. It is a 2D game.
+* **Shining Nikki (2019):** This installment was a major leap forward, bringing the series into 3D. It continues the story of Miraland and focuses on the past. The core gameplay is similar to *Love Nikki*, with styling battles and a gacha system, but with the added detail of 3D models and animations.
+* **Infinity Nikki (2024):** The most recent entry, and as we've discussed, it moves from the traditional styling battle format to an open-world adventure with platforming, puzzle-solving, and exploration, while still retaining the franchise's core fashion elements. While it is the fifth game in the series, the story takes place in an alternate timeline, so you can enjoy it without prior knowledge of the other games.
