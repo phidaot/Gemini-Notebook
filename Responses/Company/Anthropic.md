@@ -1,0 +1,3 @@
+Anthropic is an American artificial intelligence (AI) safety and research company. Founded by former senior members of OpenAI, the company's stated mission is to build reliable, interpretable, and steerable AI systems to ensure they are helpful and harmless.
+
+They are a prominent competitor to other major AI labs like OpenAI and Google. Their most well-known product is **Claude**, a family of large language models (LLMs) designed to compete with models like GPT and Gemini.
